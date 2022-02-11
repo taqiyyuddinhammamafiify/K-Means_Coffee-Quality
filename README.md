@@ -1,1 +1,2 @@
-# k-means_coffee-quality
+# K-Means_Coffee-Quality
+This is my project for AI assessment.
